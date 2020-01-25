@@ -1,0 +1,2 @@
+# 123milhas-q3
+Questão 3 Considerando o trecho de um texto extraído de uma página de pesquisa de vôos:  "Melhor preço sem escalas R$ 1.367(1) Melhor preço com escalas R$ 994 (1)  1 - Incluindo todas as taxas."  Escreva uma expressão regular para localizar o melhor preço com ou sem escalas, depois utilize sua expressão para extrair a string correspondente ao valor escolhido e em seguida converta o resultado em valor decimal (float) de forma que tenhamos apenas "1367.00" ou "994.00" . Dica: Se necessário, utilize o site https://regex101.com/ para testar a sua expressão.
